@@ -1,0 +1,3 @@
+run = "sh run.sh"
+language = "python3"
+onBoot="echo Booting up!"
